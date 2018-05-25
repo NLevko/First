@@ -1,0 +1,23 @@
+.chat {
+    font-family: "Courier New", Courier, monospace;
+    overflow: auto;
+}
+
+.form {
+    height: 85%;
+}
+
+.sendbutton {
+    width: 100%;
+}
+
+#body {
+    padding: 10px;
+    padding-top: 0;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
